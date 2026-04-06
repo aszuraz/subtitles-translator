@@ -59,7 +59,7 @@ The output filename format is:
 
 Example:
 
-- `movie.srt` -> `movie.nl.srt`
+- `movie.srt` -> `movie.translated.srt`
 
 ## Character Counter (Optional)
 
